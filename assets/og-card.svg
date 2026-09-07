@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientTransform="translate(870 170) rotate(135) scale(520)">
+      <stop stop-color="#6CE7FF" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#080A0E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientTransform="translate(250 500) rotate(-45) scale(480)">
+      <stop stop-color="#A68CFF" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#080A0E" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#080A0E"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <circle cx="1010" cy="100" r="52" fill="#C4FF5A"/>
+  <text x="1010" y="118" fill="#080A0E" font-family="Arial, sans-serif" font-weight="900" font-size="42" text-anchor="middle">AR</text>
+  <text x="72" y="110" fill="#C4FF5A" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="5">FOUNDER · SYSTEMS BUILDER</text>
+  <text x="72" y="290" fill="#F4F4EF" font-family="Arial, sans-serif" font-size="102" font-weight="800" letter-spacing="-6">Ashveer</text>
+  <text x="72" y="390" fill="none" stroke="#F4F4EF" stroke-width="2" font-family="Arial, sans-serif" font-size="102" font-weight="800" letter-spacing="-6">Ramlukan.</text>
+  <text x="76" y="480" fill="#9AA1AD" font-family="Arial, sans-serif" font-size="28">Founder of Culltron · MSc Financial Engineering</text>
+  <line x1="76" y1="540" x2="1124" y2="540" stroke="#F4F4EF" stroke-opacity=".16"/>
+  <text x="76" y="582" fill="#9AA1AD" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">GOVERNED SOFTWARE FOR REAL-WORLD OPERATIONS</text>
+</svg>
